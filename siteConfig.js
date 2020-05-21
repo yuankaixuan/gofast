@@ -7,10 +7,10 @@ module.exports = {
     postsPerPage: 3,
 
     // This allows an alternative site title for meta data for pages.
-    siteTitleMeta: `Gatsby Starter Ghost CMS`,
+    siteTitleMeta: `Unsung Shanghai`,
 
     // This allows an site description for meta data for pages.
-    siteDescriptionMeta: `Turn your Ghost blog into a flaring fast static site with Gatsby`,
+    siteDescriptionMeta: `A dive into history.`,
 
     // Change to the width and height of your default share image
     shareImageWidth: 1000,

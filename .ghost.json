@@ -1,0 +1,10 @@
+{
+    "development": {
+        "apiUrl": "https://unsung.ghost.io",
+        "contentApiKey": "4ef22e6d5e03d6c852038057c5"
+    },
+    "production": {
+        "apiUrl": "https://unsung.ghost.io",
+        "contentApiKey": "4ef22e6d5e03d6c852038057c5"
+    }
+}
