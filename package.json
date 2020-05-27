@@ -21,8 +21,7 @@
     "develop": "gatsby develop",
     "build": "gatsby build",
     "clean": "gatsby clean",
-    "config": "git update-index --skip-worktree .ghost.json",
-    "deploy": "gatsby build && gh-pages -d public -b master -r git@github.com:styxlab/styxlab.github.io"
+    "config": "git update-index --skip-worktree .ghost.json"
   },
   "dependencies": {
     "gatsby": "2.21.1",

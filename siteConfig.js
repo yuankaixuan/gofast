@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://unsung.ghost.io`,
+    siteUrl: `https://master.d1fwwnsbv4op8s.amplifyapp.com/`,
 
     // Maximum number of post shown per page
     // With Infinite Scroll this is the chunk of posts fetched when scrolling down
